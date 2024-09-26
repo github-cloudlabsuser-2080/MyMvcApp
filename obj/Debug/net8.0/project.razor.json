@@ -19329,6 +19329,11 @@
   "RootNamespace": "GitHub_Copilot",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\User\\Create.cshtml",
+      "TargetPath": "Pages\\User\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -19359,18 +19364,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\User\\Edit.cshtml",
+      "TargetPath": "Pages\\User\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\User\\Delete.cshtml",
+      "TargetPath": "Pages\\User\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Views\\User\\Create.cshtml",
       "TargetPath": "Views\\User\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\User\\Index.cshtml",
+      "TargetPath": "Pages\\User\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19399,6 +19414,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\Shared\\Error.cshtml",
+      "TargetPath": "Pages\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -19406,6 +19426,11 @@
     {
       "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\Pages\\User\\Details.cshtml",
+      "TargetPath": "Pages\\User\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
