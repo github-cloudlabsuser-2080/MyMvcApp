@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GitHub Copilot/1.0.0": {
+        "runtime": {
+          "GitHub Copilot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GitHub Copilot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\appsettings.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\GitHub Copilot.staticwebassets.runtime.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\GitHub Copilot.exe
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\GitHub Copilot.deps.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\GitHub Copilot.runtimeconfig.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\GitHub Copilot.dll
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\GitHub Copilot.pdb
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.AssemblyInfoInputs.cache
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.AssemblyInfo.cs
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.csproj.CoreCompileInputs.cache
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.RazorAssemblyInfo.cache
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.RazorAssemblyInfo.cs
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.sourcelink.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets\msbuild.GitHub Copilot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets\msbuild.build.GitHub Copilot.props
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GitHub Copilot.props
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GitHub Copilot.props
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\scopedcss\bundle\GitHub Copilot.styles.css
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\scopedcss\projectbundle\GitHub Copilot.bundle.scp.css
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.dll
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\refint\GitHub Copilot.dll
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.pdb
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.genruntimeconfig.cache
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\ref\GitHub Copilot.dll

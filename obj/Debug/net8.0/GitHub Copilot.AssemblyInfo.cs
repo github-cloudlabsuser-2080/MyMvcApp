@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHub Copilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce66c78c7b4c07b369c2f7df9b35e4227ac6140")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHub Copilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHub Copilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

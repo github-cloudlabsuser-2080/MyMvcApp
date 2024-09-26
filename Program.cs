@@ -1,4 +1,14 @@
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder(new WebApplicationOptions
+{
+    Args = args,
+    WebRootPath = "wwwroot",
+    ApplicationName = System.Reflection.Assembly.GetExecutingAssembly().GetName().Name,
+    ContentRootPath = Directory.GetCurrentDirectory(),
+    EnvironmentName = Environments.Development
+});
+
+// Set the URL and port here
+builder.WebHost.UseUrls("http://localhost:5266");
 
 // Add services to the container.
 builder.Services.AddRazorPages();

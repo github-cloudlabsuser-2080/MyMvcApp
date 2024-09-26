@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azureuser\\GitHub Copilot\\GitHub Copilot.csproj",
+      "projectUniqueName": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\GitHub Copilot.csproj",
       "projectName": "GitHub Copilot",
-      "projectPath": "C:\\Users\\azureuser\\GitHub Copilot\\GitHub Copilot.csproj",
+      "projectPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\GitHub Copilot.csproj",
       "packagesPath": "C:\\Users\\azureuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azureuser\\GitHub Copilot\\obj\\",
+      "outputPath": "C:\\Users\\azureuser\\GitHub Copilot\\MyMvcApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\azureuser\\AppData\\Roaming\\NuGet\\NuGet.Config"
