@@ -29,3 +29,6 @@ C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\refint\GitHub Copilo
 C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.pdb
 C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\GitHub Copilot.genruntimeconfig.cache
 C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\ref\GitHub Copilot.dll
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\deploy.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\bin\Debug\net8.0\deploy.parameters.json
+C:\Users\azureuser\GitHub Copilot\MyMvcApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
